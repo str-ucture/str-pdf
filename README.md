@@ -91,7 +91,7 @@ To ensure proper functionality of the app, there are two important modifications
    with the file `utils/_gsprint.py` from this repository for the app to work properly.
 
 2. **Ghostscript Binary (gsdll64.dll)**  
-   The binary file required for Ghostscript to run properly is provided in the `utils/gsdll64.dll` file. It is important to note that this file has **not** been modified but is necessary for the **str-pdf** app to work properly.
+   The binary file required for Ghostscript to run properly is provided in the `utils/gsdll64.dll` file. It is important to note that this file was accessed from a ghostscript portable available at *https://portableapps.com/apps/utilities/ghostscript_portable* and it has **not** been modified but is necessary for the **str-pdf** app to work properly.
 
 If this file is missing from your `utils` folder, please download it from this repository and place it in the `utils` folder.
 

@@ -4,6 +4,8 @@
 
 This app uses [Ghostscript](https://www.ghostscript.com/) under the **GNU AGPLv3 license** and is distributed in compliance with that license.
 
+**Important**: The app has been tested and is functional on Windows systems only and has not been tested on any other operating systems or environments.
+
 ---
 
 ## 🔧 Features
@@ -16,13 +18,20 @@ This app uses [Ghostscript](https://www.ghostscript.com/) under the **GNU AGPLv3
 
 ## 🛠️ How to Use the App
 
-- Download `str-pdf.exe` and the `utils` folder
+- Clone this repository to your local machine by running the following command in your terminal:
+  ```
+  git clone git@github.com:str-ucture/str-pdf.git
+  ```
+
+Or,
+
+- Download `str-pdf.exe` and all contents of the `utils` folder
 - Your local folder structure should look like this:
 
   ```
   <app-directory>/
   ├── str-pdf.exe
-  ├── utils/
+  └── utils/
       ├── auth.bin
       ├── gsdll64.dll
       └── str.ico

@@ -46,8 +46,6 @@ Or,
 
 ---
 
-## 🛠️ Information for Developers - From This Point Onward
-
 ## 🔑 Authentication Key Requirement
 
 To use the app, you must have a valid authentication key that is stored locally.
@@ -80,6 +78,8 @@ This is **intentional** and indicates that:
 Please wait and try again later once the update is complete.
 
 ---
+
+## 🛠️ Information for Developers - From This Point Onward
 
 ## 🛠️ About the Remote Check
 

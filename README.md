@@ -16,7 +16,7 @@ This app uses [Ghostscript](https://www.ghostscript.com/) under the **GNU AGPLv3
 
 ---
 
-## 🛠️ How to Use the App
+## 🛠️ How to Use the App (Information for Users)
 
 - Clone this repository to your local machine by running the following command in your terminal:
   ```
@@ -46,7 +46,7 @@ Or,
 
 ---
 
-## 🛠️🔧⚠️ **For Developers Only — From This Point Onward**
+## 🛠️ Informations for Developers - From This Point Onward
 
 ## 🔑 Authentication Key Requirement
 

@@ -46,6 +46,8 @@ Or,
 
 ---
 
+## 🛠️🔧⚠️ **For Developers Only — From This Point Onward**
+
 ## 🔑 Authentication Key Requirement
 
 To use the app, you must have a valid authentication key that is stored locally.

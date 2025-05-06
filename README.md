@@ -79,9 +79,9 @@ Please wait and try again later once the update is complete.
 
 ---
 
-## 🛠️ About the Remote Check (Kill Switch)
+## 🛠️ About the Remote Check
 
-The app includes a **remote authentication check** mechanism. This allows the app owner to disable functionality if the app is being misused or needs to be updated urgently.
+The app includes a **remote authentication check** (Kill Switch) mechanism. This allows the app owner to disable functionality if the app is being misused or needs to be updated urgently.
 
 This mechanism is:
 

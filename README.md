@@ -46,7 +46,7 @@ Or,
 
 ---
 
-## 🛠️ Informations for Developers - From This Point Onward
+## 🛠️ Information for Developers - From This Point Onward
 
 ## 🔑 Authentication Key Requirement
 

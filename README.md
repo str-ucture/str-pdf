@@ -37,6 +37,13 @@ Or,
       └── str.ico
   ```
 
+Or,
+
+- Download and extract **Source code** from
+  ```
+  https://github.com/str-ucture/str-pdf/releases/tag/v1.0.0-beta
+  ```
+
 ---
 
 ## 🔑 Authentication Key Requirement

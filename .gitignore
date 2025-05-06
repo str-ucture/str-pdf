@@ -1,0 +1,7 @@
+build/
+Ghostscript/
+utils/_backup_codes/
+dist/
+
+Basic_tips.md
+str-pdf.spec

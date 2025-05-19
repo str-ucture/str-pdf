@@ -16,7 +16,9 @@ This app uses [Ghostscript](https://www.ghostscript.com/) under the **GNU AGPLv3
 
 ---
 
-## 🛠️ How to Use the App (Information for Users)
+## Information for Users
+
+### 🛠️ How to Use the App
 
 - Clone this repository to your local machine by running the following command in your terminal:
   ```
@@ -46,11 +48,11 @@ Or,
 
 ---
 
-## 🔑 Authentication Key Requirement
+### 🔑 Authentication Key Requirement
 
 To use the app, you must have a valid authentication key that is stored locally.
 
-### Step-by-step instructions:
+#### Step-by-step instructions:
 
 1. Navigate to the `utils` folder in the project.
 2. Check for a file named `auth.bin`:
@@ -66,7 +68,7 @@ To use the app, you must have a valid authentication key that is stored locally.
 
 ---
 
-## ⚠️ Important Note on Key Availability
+### ⚠️ Important Note on Key Availability
 
 If the key at `https://github.com/str-ucture/str-key/blob/main/key_25.txt` becomes temporarily unavailable (e.g., due to removal, access issues, or downtime), the app may not function.
 
@@ -79,9 +81,9 @@ Please wait and try again later once the update is complete.
 
 ---
 
-## 🛠️ Information for Developers - From This Point Onward
+## 🛠️ Information for Developers
 
-## 🛠️ About the Remote Check
+### 🛠️ About the Remote Check
 
 The app includes a **remote authentication check** (Kill Switch) mechanism. This allows the app owner to disable functionality if the app is being misused or needs to be updated urgently.
 
@@ -95,7 +97,7 @@ Users who build the app from source may remove or modify this behavior as permit
 
 ---
 
-## 🖥️ Ghostscript Modifications and Binary Requirements
+### 🖥️ Ghostscript Modifications and Binary Requirements
 
 To ensure proper functionality of the app, there are two important modifications and requirements related to Ghostscript:
 
@@ -113,7 +115,7 @@ To ensure proper functionality of the app, there are two important modifications
 
 If this file is missing from your `utils` folder, please download it from this repository and place it in the `utils` folder.
 
-### Ghostscript Already Installed?
+#### Ghostscript Already Installed?
 
 - If Ghostscript (https://ghostscript.com/releases/gsdnld.html) is already installed on your system, the `_gsprint.py` file does **not** need to be replaced, and the `gsdll64.dll` file is **not** required inside the `utils` folder.
 - However, replacing the `_gsprint.py` file and having the `gsdll64.dll` file inside the `utils` folder will **not affect the functionality** of the app and is safe to do.

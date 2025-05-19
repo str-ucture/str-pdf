@@ -81,7 +81,7 @@ Please wait and try again later once the update is complete.
 
 ---
 
-## 🛠️ Information for Developers
+## Information for Developers
 
 ### 🛠️ About the Remote Check
 
